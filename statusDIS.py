@@ -3,7 +3,7 @@ import time
 import psutil
 
 time1 = time.ctime()
-client_id = 1097099246328631337
+client_id = id бота дискорда
 RPC = Presence(client_id)
 
 RPC.connect()
