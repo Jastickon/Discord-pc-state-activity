@@ -7,4 +7,6 @@ Discord-pc-state-activity
 3. Настраиваете скрипт
 4. Запускаете скрипт
 
+id бота дискорда можно получить тут-https://discord.com/developers/applications/
+
 ![image](https://user-images.githubusercontent.com/128633248/232321429-53a12835-4e02-411a-bbb6-4269ba67c14f.png)
