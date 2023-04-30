@@ -11,4 +11,4 @@ id бота дискорда можно получить тут-https://discord.
 
 Моя версия python: https://www.python.org/ftp/python/3.10.10/python-3.10.10-amd64.exe
 
-![image](https://user-images.githubusercontent.com/128633248/232321429-53a12835-4e02-411a-bbb6-4269ba67c14f.png)
+![image](https://user-images.githubusercontent.com/128633248/235353167-05432761-e4e3-4b34-b32b-6baab4f27507.png)
