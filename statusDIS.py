@@ -10,7 +10,7 @@ RPC = Presence(client_id)
 ButtonsList= [
                 {
                     "label": "My Site",
-                    "url": "https://ametrin-smp.ru"
+                    "url": "https://github.com/Jastickon"
                 },
                 {
                     "label": "GitHub",
