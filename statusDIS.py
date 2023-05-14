@@ -6,6 +6,7 @@ time.sleep(1)
 
 
 client_id = айди Бота дискорда
+#Пример client_id = 1107349645656588412
 RPC = Presence(client_id)
 ButtonsList= [
                 {
