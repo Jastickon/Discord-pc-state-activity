@@ -5,7 +5,7 @@ import psutil
 time.sleep(1)
 
 
-client_id = id Бота дискорда
+client_id = айди Бота дискорда
 RPC = Presence(client_id)
 ButtonsList= [
                 {
