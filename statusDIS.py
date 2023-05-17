@@ -27,7 +27,7 @@ while True:
     ram=round(psutil.virtual_memory().total/1000000000, 1)
     cpucore=psutil.cpu_count(logical=False)
     cpupot=psutil.cpu_count()
-    RPC.update(details= f"RAM:{ram1}%/{ram}GB CPU:{cpu1}%({cpucore}/{cpupot})",
+    RPC.update(details= f"RAM({ram}GB):{ram1}% CPU({cpucore}/{cpupot}):{cpu1}%",
             large_image='https://media.tenor.com/8znDLN7uJqwAAAAi/b-eat-saber.gif',
             large_text='3.14',
             buttons=ButtonsList,
