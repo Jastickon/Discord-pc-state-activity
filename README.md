@@ -20,4 +20,4 @@ Discord-pc-state-activity
 3. Настраиваете скрипт
 4. Запускаете скрипт
 
-id бота дискорда можно получить тут-```https://discord.com/developers/applications/
+id бота дискорда можно получить тут-https://discord.com/developers/applications/
