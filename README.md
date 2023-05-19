@@ -19,4 +19,6 @@ Discord-pc-state-activity
 2. Настраиваете скрипт
 3. Запускаете скрипт
 
+Списибо TREEWOOD#0001 за находку библиотек pynvml и помощь в её настройке
+
 id бота дискорда можно получить тут-https://discord.com/developers/applications/
