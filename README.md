@@ -15,9 +15,8 @@ Discord-pc-state-activity
 
 
 Установка:
-1. `pip install pypresence`
-2. `pip install psutil`
-3. Настраиваете скрипт
-4. Запускаете скрипт
+1. `pip install pynvml psutil pypresence`
+2. Настраиваете скрипт
+3. Запускаете скрипт
 
 id бота дискорда можно получить тут-https://discord.com/developers/applications/
