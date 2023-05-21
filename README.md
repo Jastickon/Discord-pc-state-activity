@@ -14,8 +14,18 @@ Discord-pc-state-activity
 `1. На Системе виндолвс не всё работает, что дают библиотеки psutil`
 
 
-Установка:
+Установка(под видеокарты Nvidia):
 1. `pip install pynvml psutil pypresence`
+2. Настраиваете скрипт
+3. Запускаете скрипт
+
+Установка(под видеокарты AMD):
+1. `pip install pymgpu psutil pypresence`
+2. Настраиваете скрипт
+3. Запускаете скрипт
+
+Установка(Без видеокарты):
+1. `pip install psutil pypresence`
 2. Настраиваете скрипт
 3. Запускаете скрипт
 
