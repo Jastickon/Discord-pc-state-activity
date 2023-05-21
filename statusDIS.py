@@ -36,7 +36,7 @@ while True:
         gpu_utilization = ''
         for i in range(device_count):
             handle = pynvml.nvmlDeviceGetHandleByIndex(i)
-            gpu_utilization += f"{pynvml.nvmlDeviceGetUtilizationRates(handle).gpu / 10:.1f}% "
+            gpu_utilization += f"{pynvml.nvmlDeviceGetUtilizationRates(handle).gpu / 1:.1f}% "
     else:
         gpu_utilization = ''
  # здесь отоброжение в приложение
