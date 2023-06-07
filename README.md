@@ -19,11 +19,6 @@ Discord-pc-state-activity
 2. Настраиваете скрипт
 3. Запускаете скрипт
 
-Установка(под видеокарты AMD):
-1. `pip install pymgpu psutil pypresence`
-2. Настраиваете скрипт
-3. Запускаете скрипт
-
 Установка(Без видеокарты):
 1. `pip install psutil pypresence`
 2. Настраиваете скрипт
